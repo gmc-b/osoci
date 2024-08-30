@@ -19,7 +19,7 @@ Automatizador de análises de open sim a partir de arquivos open cap
   - ```python setup_win_python38.py```
   - ```python -m pip install .```
 
-### Utilização
+## Utilização
 - Pelo terminal, navegue até a pasta osoci:
   - ative o ambiente virtual: ```python3.8 -m venv ososci_venv```
   - execute o programa: ```python main.py``` 
