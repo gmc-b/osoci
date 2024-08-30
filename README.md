@@ -22,4 +22,6 @@ Automatizador de análises de open sim a partir de arquivos open cap
 ## Utilização
 - Pelo terminal, navegue até a pasta osoci:
   - ative o ambiente virtual: ```python3.8 -m venv ososci_venv```
+  - Adicione as pastas de arquivos open cap a serem analisados na pasta __osoci/data__ 
+  - Adicione ao arquivo __setup.json__ os nomes de pastas e arquivos a serem analisados
   - execute o programa: ```python main.py``` 
