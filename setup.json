@@ -5,14 +5,11 @@
     "opencap_folder_list":
     [   
         {
-        "folder_name":          "OpenCapData_Guilherme",
+        "folder_name":          "OpenCapData_Name",
         "model_file":           "LaiUhlrich2022_scaled.osim",
-        "movement_file_list":  ["salto3.mot"]
+        "movement_file_list":  ["salto2.mot","salto3.mot"]
         }
 
-    
-    
-    
     
     ],
     "tools" : {
