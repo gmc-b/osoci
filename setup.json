@@ -1,0 +1,21 @@
+{
+
+
+
+    "opencap_folder_list":
+    [   
+        {
+        "folder_name":          "OpenCapData_Guilherme",
+        "model_file":           "LaiUhlrich2022_scaled.osim",
+        "movement_file_list":  ["salto3.mot"]
+        }
+
+    
+    
+    
+    
+    ],
+    "tools" : {
+        "analyze" : ["body_kinematics"]
+    }
+}
